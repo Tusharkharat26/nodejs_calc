@@ -77,4 +77,4 @@ app.post("/calc",(request,response)=>{
     })
 });
 
-app.listen(9999,()=>{console.log("server chalu aaahe 9999 la!!!")})
+app.listen(9999,()=>{console.log("Starting server professionally. at 9999")})
